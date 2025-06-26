@@ -1,0 +1,5 @@
+ID	Name	Department	Mark1	Mark2	Mark3	Total
+1	dharan	bba	85	95	85	265
+2	dharshini	bca	85	95	65	245
+3	gangadharan	bca	85	85	85	255
+4	ganga	bsc	78	58	95	231
